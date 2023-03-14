@@ -1,0 +1,65 @@
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/011_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/033_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/048_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/060_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/091_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/148_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/156_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/169_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/175_features_all.npy'
+186
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/187_features_all.npy'
+188
+210
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/217_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/219_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/220_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/240_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/263_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/274_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/305_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/325_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/332_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/339_features_all.npy'
+344
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/345_features_all.npy'
+346
+356
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/357_features_all.npy'
+359
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/404_features_all.npy'
+412
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/447_features_all.npy'
+493
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/496_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/509_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/522_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/562_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/566_features_all.npy'
+574
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/636_features_all.npy'
+659
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/673_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/692_features_all.npy'
+706
+720
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/724_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/732_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/736_features_all.npy'
+756
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/759_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/760_features_all.npy'
+776
+787
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/794_features_all.npy'
+799
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/805_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/812_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/824_features_all.npy'
+829
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/869_features_all.npy'
+873
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/880_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/930_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/950_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf20/994_features_all.npy'

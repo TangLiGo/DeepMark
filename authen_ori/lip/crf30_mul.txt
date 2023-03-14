@@ -1,0 +1,67 @@
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/011_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/033_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/048_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/060_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/091_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/148_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/156_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/169_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/175_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/186_features_all.npy'
+187
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/188_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/210_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/217_features_all.npy'
+219
+220
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/240_features_all.npy'
+263
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/274_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/305_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/325_features_all.npy'
+332
+339
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/344_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/345_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/346_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/356_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/357_features_all.npy'
+359
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/404_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/412_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/447_features_all.npy'
+493
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/496_features_all.npy'
+509
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/522_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/562_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/566_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/574_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/636_features_all.npy'
+659
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/673_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/692_features_all.npy'
+706
+720
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/724_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/732_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/736_features_all.npy'
+756
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/759_features_all.npy'
+760
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/765_features_all.npy'
+776
+787
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/794_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/799_features_all.npy'
+805
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/812_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/817_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/824_features_all.npy'
+829
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/869_features_all.npy'
+873
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/880_features_all.npy'
+930
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/950_features_all.npy'
+ 'D:/TangLi/datasets/FaceForensics++/original_sequences_crf30/994_features_all.npy'
